@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio! My name is **Orinah Yuvinalis Mogeni**, and I am a passionate and ambitious **UX/UI Designer**, **Logo Designer**, **Graphic Designer**, and **Digital Marketer**. This portfolio highlights my skills, services, and projects that showcase my expertise in design and technology.
 
+🌐 **Live Preview**: [katalist.netlify.app](https://katalist.netlify.app/)
+
 ## Table of Contents
 
 - [About Me](#about-me)
@@ -54,8 +56,8 @@ Check out some of my featured projects:
 
 If you have any projects in mind or would like to get in touch, feel free to reach out:
 
-- **Name**: Orinah Yuvinalis Mogeni
-- **Email**: [orinahyuvinalismogeni@gmail.com](mailto:orinahyuvinalismogeni@gmail.com)
+- **Name**: Orinah Yuvinalis Mogeni  
+- **Email**: [orinahyuvinalismogeni@gmail.com](mailto:orinahyuvinalismogeni@gmail.com)  
 - **Phone**: +254759934650
 
 You can also connect with me via [WhatsApp](https://wa.me/message/5RHEMV5DA5NWJ1).
@@ -66,4 +68,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   https://github.com/Uv-Katalist/Katalist-Portfolio.git
+   git clone https://github.com/Uv-Katalist/Katalist-Portfolio.git
